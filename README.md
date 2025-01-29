@@ -1,5 +1,5 @@
 # Aether
-Mon récent projet de développement d'une application météorologique : https://sae.jdsr.dev/index/
+🌦️ Développement d'une application permettant la visualisation et l'analyse des données météorologiques - API SYNOP
 Projet universitaire réalisé dans le cadre de la SAE 3.01 - Développement d’Application. L’objectif : concevoir une application web permettant de visualiser et d’analyser les données météorologiques issues de l’API SYNOP.
 
-Ce projet a été réalisé en deux équipes de six, nécessitant une forte collaboration et une bonne coordination pour mener à bien toutes les étapes du développement.
+Nous avons travaillé en équipe de six, ce qui nous a permis de combiner nos compétences pour mener à bien le projet, tout en relevant des défis techniques et organisationnels.
