@@ -2,7 +2,7 @@
 
 Dans le cadre de ma formation en BUT Informatique, j’ai eu l’opportunité de travailler sur ce projet universitaire en équipe de six. L’objectif était de concevoir une application web permettant de récupérer, stocker et analyser les données météorologiques issues de l’API SYNOP.
 
-# 🔗 Accédez à l’application ici : https://sae.jdsr.dev/index/
+🔗 Accédez à l’application ici : https://sae.jdsr.dev/index/
 
 # 🚀 Organisation et gestion du projet
 En tant que chef de projet, j’ai pris en charge la coordination de l’équipe et l’organisation du travail afin d’optimiser notre efficacité collective. Pour assurer une meilleure répartition des tâches et une collaboration fluide, j’ai proposé de diviser l’équipe en trois pôles de travail distincts, en nommant, avec l’accord du groupe, trois responsables d’équipe :
